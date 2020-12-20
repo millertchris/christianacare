@@ -11,7 +11,8 @@
 	justify-content: flex-start;
 	padding-bottom: 75px;
 	height: calc(100vh - 115px);
-	min-height: 600px;
+	min-height: 500px;
+	max-height: 600px;
 	max-width: 1140px;
 }
 .region-lander-hero h1 {
@@ -135,23 +136,25 @@
 }
 /* GLOBAL STYLE OVERRIDES */
 footer {
-	padding-bottom: 0;
+	padding-bottom: 0 !important;
 }
 #lyh {
-	margin-bottom: 0;
+	margin-bottom: 0 !important;
 }
 .footer-inner {
-	padding-top: 25px;
-	background-color: #7b7c7f;
+	padding-top: 25px !important;
+	background-color: #7b7c7f !important;
 }
 #privacy {
-	margin-top: 0;
-	padding-top: 10px;
-	padding-bottom: 25px;
+	margin-top: 0 !important;
+	padding-top: 10px !important;
+	padding-bottom: 25px !important;
 }
 @media only screen and (max-width: 780px) {
 	.region-lander-hero .container {
 		padding-bottom: 25px;
+		height: auto;
+		min-height: 400px;
 	}
 	.region-lander-hero h1 {
 		text-align: left;
@@ -162,5 +165,14 @@ footer {
 	}
 	.region-lander-locations .region-lander-locations-item {
 		width: 100%;
+	}
+	.region-lander-locations .region-lander-locations-phone {
+		font-size: 18px;
+	}
+	.region-lander-locations .region-lander-locations-view {
+		width: 90px;
+		height: 36px;
+		line-height: 36px;
+		font-size: 14px;
 	}
 }

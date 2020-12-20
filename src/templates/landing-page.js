@@ -1,5 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
+import Img from 'gatsby-image';
 import App from '../component/seo';
 import '../scss/styles.scss';
 
@@ -21,7 +22,20 @@ export default function LandingPage({ data }) {
 				</section>
 			</header>
 			<main>
-				<section className='region-lander-hero'>
+				<section
+					className='region-lander-hero'
+					style={{
+						backgroundImage: `url(../assets/images/hero-01.jpg)`,
+					}}
+				>
+					{/* <Img
+						fluid={
+							data.thisDemo
+								.childImageSharp
+								.fluid
+						}
+						alt='This is a test.'
+					/> */}
 					<div className='container'>
 						<div>
 							<h1
@@ -225,6 +239,13 @@ export default function LandingPage({ data }) {
 
 export const query = graphql`
 	query($slug: String!) {
+		thisDemo: file(relativePath: { eq: "hero-01.jpg" }) {
+			childImageSharp {
+				fluid(maxWidth: 2000) {
+					...GatsbyImageSharpFluid
+				}
+			}
+		}
 		dataJson(fields: { slug: { eq: $slug } }) {
 			id
 			headline

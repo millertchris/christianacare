@@ -9,31 +9,45 @@
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+1.  **Install dependancies.**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
-
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
-
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
+    Use npm to install dependancies.
 
     ```shell
-    cd my-gatsby-site/
-    npm run develop
+    npm install -g gatsby-cli
+    npm install
     ```
 
-3.  **Open the code and start customizing!**
+2.  **Build files.**
+
+    Navigate into your new site’s directory and build it.
+
+    ```shell
+    cd christianacare/
+    gatsby build
+    gatsby serve
+    ```
+
+3.  **Preview files!**
+
+    Your site is now running at http://localhost:9000!
+    
+4.  **Need to make changes?**
+
+    Navigate into your site’s directory and start the development server.
+
+    ```shell
+    cd christianacare/
+    gatsby develop
+    ```
 
     Your site is now running at http://localhost:8000!
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+    Edit `src/templates/landing-page.js` to see your site update in real-time!
+    Or add/update any .json file inside of `src/data` and see the content update auto-magically.
+    Any new .json file you create inside of `src/data` will create a new page.
 
-4.  **Learn more**
+5.  **Learn more**
 
     - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 

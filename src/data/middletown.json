@@ -1,0 +1,23 @@
+{
+    "title": "Middletown",
+    "headline": "Your best health, <br />here in Middletown",
+    "intro": "<p>If you don’t already have a Primary Care Provider, it’s important to make an appointment and find an expert you trust to guide your health and refer you to specialty care if needed.</p>",
+    "locationsIntro": {
+        "title": "Middletown Locations",
+        "content": "<p>ChristianaCare Primary Care locations offer a variety comprehensive medical care for adults and children, with four convenient practices for our neighbors in the Middletown area. Many locations offer appointments by video, by phone or in-office. Call for details.</p>"
+    },
+    "locations": [
+        {
+            "title": "ChristianaCare Primary Care at Middletown West - Accepting New Patients",
+            "phone": "302-449-3030",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/middletownfamilymedicine/",
+            "details": "<p>124 Sleepy Hollow Drive, Suite 203, Middletown, DE 19709</p>"
+        },
+        {
+            "title": "ChristianaCare Primary Care at Middletown East",
+            "phone": "302-203-2230",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/middletowneast/",
+            "details": "<p>621 Middletown Odessa Road, 2nd floor, Middletown, DE 19709 </p>"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "title": "North Wilmington",
+    "headline": "Your best health, <br />here in North Wilmington",
+    "intro": "<p>If you don’t already have a Primary Care Provider, it’s important to make an appointment and find an expert you trust to guide your health and refer you to specialty care if needed.</p>",
+    "locationsIntro": {
+        "title": "North Wilmington",
+        "content": "<p>ChristianaCare Primary Care locations offer a variety comprehensive medical care for adults and children, with three convenient practices for our neighbors in the North Wilmington area. Many locations offer appointments by video, by phone or in-office. Call for details.</p>",
+        "notice": "<br />* Claymont will be relocating to 3565 Philadelphia Pike, Claymont, DE 19703 <br />Expected to open 2/8/2021"
+    },
+    "locations": [
+        {
+            "title": "ChristianaCare Primary Care at Claymont*",
+            "phone": "302-320-4110",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/claymontcenter/",
+            "details": "<p>2401 Philadelphia Pike, Claymont, DE 19703</p>"
+        },
+        {
+            "title": "ChristianaCare Primary Care at Foulk Road",
+            "phone": "302-477-3300",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/familymedicinecenteratfoulkroad/",
+            "details": "<p>1401 Foulk Road, Suite 100B, Wilmington, DE 19803</p>"
+        },
+        {
+            "title": "ChristianaCare Primary Care at Wilson",
+            "phone": "302-477-2560",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/wilsonprimarycare/",
+            "details": "<p>900 Foulk Road, Suite 200, Wilmington, DE 19803</p>"
+        },
+        {
+            "title": "ChristianaCare Primary Care at Linden Hill",
+            "phone": "302-623-2850",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/lindenhill/",
+            "details": "<p>100 South Riding Boulevard, 2nd Floor, Wilmington, DE 19807</p>"
+        }
+    ]
+}

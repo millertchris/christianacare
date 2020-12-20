@@ -1,0 +1,29 @@
+{
+    "title": "Newark",
+    "headline": "Your best health, <br />here in Newark",
+    "intro": "<p>If you don’t already have a Primary Care Provider, it’s important to make an appointment and find an expert you trust to guide your health and refer you to specialty care if needed.</p>",
+    "locationsIntro": {
+        "title": "Newark Locations",
+        "content": "<p>ChristianaCare Primary Care locations offer a variety comprehensive medical care for adults and children, with three convenient practices for our neighbors in the Newark area. Many locations offer appointments by video, by phone or in-office. Call for details. </p>"
+    },
+    "locations": [
+        {
+            "title": "ChristianaCare Primary Care at Map 2 ",
+            "phone": "302-623-0200",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/healthcarecenter/",
+            "details": "<p>4735 Ogletown-Stanton Road, Suite 1250, <br />Newark, DE 19713</p>"
+        },
+        {
+            "title": "ChristianaCare Pediatric Associates",
+            "phone": "302-368-8612",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/pediatric-associates/",
+            "details": "<p>4735 Ogletown-Stanton Road, Medical Arts Pavilion 2, <br />Suite 1116, Newark, DE  19713</p>"
+        },
+        {
+            "title": "ChristianaCare Primary Care at Springside",
+            "phone": "302-838-4750",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/springsidefamilymedicine/",
+            "details": "<p>Connor Building, 300 Biddle Ave., Suite 200 <br />Newark, DE 19702</p>"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Wilmington",
+    "headline": "Your best health, <br />here in Wilmington",
+    "intro": "<p>If you don’t already have a Primary Care Provider, it’s important to make an appointment and find an expert you trust to guide your health and refer you to specialty care if needed.</p>",
+    "locationsIntro": {
+        "title": "Wilmington",
+        "content": "<p>ChristianaCare Primary Care locations offer a variety comprehensive medical care for adults and children, with four convenient practices for our neighbors in the Wilmington area. Many locations offer appointments by video, by phone or in-office. Call for details.</p>"
+    },
+    "locations": [
+        {
+            "title": "Family Medicine at Wilmington Health Center",
+            "phone": "302-477-3300",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/wilmingtonhealthcenter/",
+            "details": "<p>Wilmington Hospital, 501 W. 14th St.,Wilmington, DE 19801</p>"
+        },
+        {
+            "title": "ChristianaCare Primary Care at Greenville </br>Eugene du Pont Preventive Medicine & Rehabilitation Institute",
+            "phone": "302-661-3400",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/christiana-care-primary-care-at-greenville/",
+            "details": "<p>3506 Kennett Pike, 2nd Floor, Wilmington, DE 19807</p>"
+        },
+        {
+            "title": "ChristianaCare Primary Care at Limestone",
+            "phone": "302-623-7500",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/limestonemedicineandpediatrics/",
+            "details": "<p>4512 Kirkwood Highway, Suite 300 Wilmington, DE 19808</p>"
+        },
+        {
+            "title": "ChristianaCare Primary Care at Linden Hill",
+            "phone": "302-623-2850",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/lindenhill/",
+            "details": "<p>100 South Riding Boulevard, 2nd Floor, Wilmington, DE 19807</p>"
+        }
+    ]
+}

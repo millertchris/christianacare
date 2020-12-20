@@ -1,0 +1,17 @@
+{
+    "title": "Smyrna",
+    "headline": "Your best health, <br />here in Smyrna",
+    "intro": "<p>If you don’t already have a Primary Care Provider, it’s important to make an appointment and find an expert you trust to guide your health and refer you to specialty care if needed.</p>",
+    "locationsIntro": {
+        "title": "Smyrna",
+        "content": "<p>ChristianaCare Primary Care locations offer a variety comprehensive medical care for adults and children, with a convenient practice for our neighbors in the Smyrna area. Many locations offer appointments by video, by phone or in-office. Call for details.</p>"
+    },
+    "locations": [
+        {
+            "title": "ChristianaCare Primary Care at Smyrna",
+            "phone": "302-659-4490",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/smyrnafamilypractice/",
+            "details": "<p>100 S. Main St., Suite 207, Smyrna, DE 19977</p>"
+        }
+    ]
+}

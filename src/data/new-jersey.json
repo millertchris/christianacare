@@ -1,0 +1,29 @@
+{
+    "title": "New Jersey",
+    "headline": "Your best health, <br />here in New Jersey",
+    "intro": "<p>If you don’t already have a Primary Care Provider, it’s important to make an appointment and find an expert you trust to guide your health and refer you to specialty care if needed.</p>",
+    "locationsIntro": {
+        "title": "New Jersey Locations",
+        "content": "<p>ChristianaCare Primary Care locations offer a variety comprehensive medical care for adults and children, with two convenient practices for our neighbors in the New Jersey area. Many locations offer appointments by video, by phone or in-office. Call for details.</p>"
+    },
+    "locations": [
+        {
+            "title": "ChristianaCare Primary Care at Carney’s Point",
+            "phone": "856-299-4600",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/carneyspointcenter/",
+            "details": "<p>341 Shell Road, Carneys Point, NJ 08069 </p>"
+        },
+        {
+            "title": "ChristianaCare Pediatric Associates",
+            "phone": "302-368-8612",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/pediatric-associates/",
+            "details": "<p>4735 Ogletown-Stanton Road, Medical Arts Pavilion 2, <br />Suite 1116, Newark, DE  19713</p>"
+        },
+        {
+            "title": "ChristianaCare Primary Care at Woodstown",
+            "phone": "856-769-2800",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/woodstowncenter/",
+            "details": "<p>125 East Ave., Suite C, Woodstown, NJ 08098</p>"
+        }
+    ]
+}

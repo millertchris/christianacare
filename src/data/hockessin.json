@@ -1,0 +1,23 @@
+{
+    "title": "Hockessin",
+    "headline": "Your best health, <br />here in Hockessin",
+    "intro": "<p>If you don’t already have a Primary Care Provider, it’s important to make an appointment and find an expert you trust to guide your health and refer you to specialty care if needed.</p>",
+    "locationsIntro": {
+        "title": "Hockessin Locations",
+        "content": "<p>ChristianaCare Primary Care locations offer a variety comprehensive medical care for adults and children, with two convenient practices for our neighbors in the Hockessin area. Many locations offer appointments by video, by phone or in-office. Call for details.</p>"
+    },
+    "locations": [
+        {
+            "title": "ChristianaCare Primary Care at Hockessin",
+            "phone": "302-623-5770",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/hockessincenter/",
+            "details": "<p>726 Yorklyn Road, Hockessin, DE 19707</p>"
+        },
+        {
+            "title": "ChristianaCare Primary Care at Lantana Square",
+            "phone": "302-623-2800",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/lantana-square/",
+            "details": "<p>84 Lantana Drive, Hockessin, DE 19707</p>"
+        }
+    ]
+}

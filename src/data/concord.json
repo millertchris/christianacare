@@ -1,0 +1,17 @@
+{
+    "title": "Concord",
+    "headline": "Your best health, <br />here in Concord",
+    "intro": "<p>If you don’t already have a Primary Care Provider, it’s important to make an appointment and find an expert you trust to guide your health and refer you to specialty care if needed.</p>",
+    "locationsIntro": {
+        "title": "Concord Locations",
+        "content": "<p>ChristianaCare Primary Care locations offer a variety comprehensive medical care for adults and children, with a convenient practice for our neighbors in the Concord area. Many locations offer appointments by video, by phone or in-office. Call for details.</p>"
+    },
+    "locations": [
+        {
+            "title": "ChristianaCare Primary Care at Concord Health Center",
+            "phone": "855-250-9594",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/concordmedicineandpediatrics/",
+            "details": "<p>124 Sleepy Hollow Drive, Suite 203, Middletown, DE 19709</p>"
+        }
+    ]
+}

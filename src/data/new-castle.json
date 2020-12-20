@@ -1,0 +1,23 @@
+{
+    "title": "New Castle",
+    "headline": "Your best health, <br />here in New Castle",
+    "intro": "<p>If you don’t already have a Primary Care Provider, it’s important to make an appointment and find an expert you trust to guide your health and refer you to specialty care if needed.</p>",
+    "locationsIntro": {
+        "title": "New Castle Locations",
+        "content": "<p>ChristianaCare Primary Care locations offer a variety comprehensive medical care for adults and children, with two convenient practices for our neighbors in the New Castle area. Many locations offer appointments by video, by phone or in-office. Call for details.</p>"
+    },
+    "locations": [
+        {
+            "title": "ChristianaCare Primary Care at New Castle",
+            "phone": "302-449-3030",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/newcastlefamilymedicine/",
+            "details": "<p>94 Christiana Road, New Castle, DE 19720</p>"
+        },
+        {
+            "title": "ChristianaCare Primary Care at New Castle Senior Center",
+            "phone": "302-203-2230",
+            "url": "https://christianacare.org/services/primarycare/familyimlocations/newcastleseniorcenter/",
+            "details": "<p>400 South St., Suite 100, New Castle, DE 19720</p>"
+        }
+    ]
+}
